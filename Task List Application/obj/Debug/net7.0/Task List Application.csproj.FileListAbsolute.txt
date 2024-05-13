@@ -1,0 +1,15 @@
+F:\.Net\Task List Application\Task List Application\bin\Debug\net7.0\Task List Application.exe
+F:\.Net\Task List Application\Task List Application\bin\Debug\net7.0\Task List Application.deps.json
+F:\.Net\Task List Application\Task List Application\bin\Debug\net7.0\Task List Application.runtimeconfig.json
+F:\.Net\Task List Application\Task List Application\bin\Debug\net7.0\Task List Application.dll
+F:\.Net\Task List Application\Task List Application\bin\Debug\net7.0\Task List Application.pdb
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.csproj.AssemblyReference.cache
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.AssemblyInfoInputs.cache
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.AssemblyInfo.cs
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.csproj.CoreCompileInputs.cache
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.dll
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\refint\Task List Application.dll
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.pdb
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\Task List Application.genruntimeconfig.cache
+F:\.Net\Task List Application\Task List Application\obj\Debug\net7.0\ref\Task List Application.dll
