@@ -1,5 +1,4 @@
-
-Certainly! Here's a sample README file for the C# Task List Application:
+ README file for the C# Task List Application:
 
 Task List Application
 This is a simple Task List Application implemented in C#. It allows users to create, read, update, and delete tasks.
